@@ -42,5 +42,3 @@ FC=gfortran FCFLAGS=$FCFLAGS FCLIBS=$FCLIBS ./configure --prefix=$CONDA_PREFIX
 make
 make install
 ```
-
-Make check will give errors due to implementation errors. These can be ignored.
