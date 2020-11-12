@@ -8,7 +8,7 @@ Infrasound Ray Tracer 3D Toolkit, an in-house developed ray tracing algorithm (c
 Create and activate the irt environment:
 
 ```
-conda create -y -n irt make compilers netcdf4 netcdf-fortran eccodes
+conda create -y -n irt -c conda-forge make compilers netcdf4 netcdf-fortran eccodes
 conda activate irt
 ```
 
