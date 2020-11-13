@@ -92,6 +92,10 @@ make install
 
 Make check will give errors due to implementation errors. These can be ignored.
 
+## Note
+
+`irt_toolkit` makes use of Generic Mapping Tools v4.5.15 for plotting.
+
 
 ## Reference
 
